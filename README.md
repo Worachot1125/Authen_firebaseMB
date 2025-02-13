@@ -1,1 +1,3 @@
-# Authen_firebaseMB
+# flutter_firebase_authen
+
+A new Flutter project.
